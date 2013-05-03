@@ -4,7 +4,7 @@ creditcardvalidator
 v1.0 - Original Version
 
 
-Credit Card Validation Test for a Prospective Retail Client
+Credit Card Validation Test
 -----------------------------------------------------------
 
 
